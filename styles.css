@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: pink;
+}
+header{
+    text-align: center;
+    color: purple;
+    font-size: x-large;
+    font-family: cursive;
+    text-shadow: 2px 4px black;
+}
+main{
+    display: flex;
+    gap: 20px;
+    margin-left: 10%;
+}
+ article{
+    background-color: white;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px grey;
+ }
+ article a{
+    text-decoration: none;
+    font-family: cursive;
+    text-align: center;
+ }
+section,footer{
+    text-align: center;
+}
