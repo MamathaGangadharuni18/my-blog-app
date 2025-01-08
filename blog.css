@@ -13,3 +13,14 @@ body{
     margin:0 auto;
     text-align: center;
  }
+button{
+   margin-left: 45%;
+   background-color: aquamarine;
+   padding: 4px;
+
+}
+button a{
+   color: burlywood;
+   text-decoration: none;
+   font-family: cursive;
+}
