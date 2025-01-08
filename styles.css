@@ -25,6 +25,16 @@ main{
     font-family: cursive;
     text-align: center;
  }
-section,footer{
+section{
     text-align: center;
+    padding: 24px;
+background-color: blue;
+
+}
+footer{
+    text-align: center;
+    padding: 16px;
+    background-color: gray;
+    color: white;
+    font-family: cursive;
 }
